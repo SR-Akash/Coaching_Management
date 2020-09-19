@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\I U B A T\\Project\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj": {}
+    "E:\\I U B A T\\PPRROOJJEECCTT\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj": {}
   },
   "projects": {
-    "E:\\I U B A T\\Project\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj": {
+    "E:\\I U B A T\\PPRROOJJEECCTT\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\I U B A T\\Project\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj",
+        "projectUniqueName": "E:\\I U B A T\\PPRROOJJEECCTT\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj",
         "projectName": "CAC_Management",
-        "projectPath": "E:\\I U B A T\\Project\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj",
+        "projectPath": "E:\\I U B A T\\PPRROOJJEECCTT\\A4\\Project\\CAC Management\\CAC Management\\CAC_Management.csproj",
         "packagesPath": "C:\\Users\\Akash\\.nuget\\packages\\",
-        "outputPath": "E:\\I U B A T\\Project\\A4\\Project\\CAC Management\\CAC Management\\obj\\",
+        "outputPath": "E:\\I U B A T\\PPRROOJJEECCTT\\A4\\Project\\CAC Management\\CAC Management\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
